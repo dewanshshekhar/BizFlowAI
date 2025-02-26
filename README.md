@@ -1,16 +1,16 @@
-# EnterpriseHireAI
+# BizFlowAI
 
 ### **README File**
 
 ---
 
-# **EnterpriseHireAI**  
+# **BizFlowAI**  
 **AI-Powered Product Planning & Talent Matching Platform**  
 
 ---
 
 ## **Overview**  
-EnterpriseHireAI is a **SaaS platform** designed to help companies **plan new products/features**, **predict costs**, and **automate talent matching**. It leverages AI to recommend tech stacks, predict project costs, and match candidates based on their skills and experience. Additionally, it provides **salary benchmarking** to ensure competitive offers and uses **Gemini API** for personalized candidate communication.  
+BizFlowAI is a **SaaS platform** designed to help companies **plan new products/features**, **predict costs**, and **automate talent matching**. It leverages AI to recommend tech stacks, predict project costs, and match candidates based on their skills and experience. Additionally, it provides **salary benchmarking** to ensure competitive offers and uses **Gemini API** for personalized candidate communication.  
 
 ---
 
@@ -77,4 +77,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 --- 
 
-**EnterpriseHireAI**: Empowering companies to build better products with AI-driven insights! 🚀
+**BizFlowAI**: Empowering companies to build better products with AI-driven insights! 🚀
